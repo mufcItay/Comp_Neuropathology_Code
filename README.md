@@ -1,4 +1,5 @@
-"# Comp_Neuropathology_Code" 
+"# Seminar Project 2019/2020" 
+
 Hi, this is the source code for the computational neuropathology seminar project of Adva Shoham and Itay Yaron
 Here are the references for the papers mentioned on the tutorial:
 
